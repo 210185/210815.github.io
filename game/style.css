@@ -1,5 +1,4 @@
-body {
-
+#indexBody{
 	background-image: url("http://i.imgur.com/6B65yRU.png");
     background-size: cover;
     background-position: center center;
@@ -69,6 +68,18 @@ body {
   margin-left:1177px;
 }
 
+#house1Body{
+   background-image:"img/home.jpg"; 
+  }
+  #house2Body{
+   background-image:"img/house.jpg"; 
+  }
+  #house3Body{
+   background-image:"img/home.jpg"; 
+  }
+  #house4Body{
+   background-image:"img/house.jpg"; 
+  }
 
 #forest1Body {
   background-image: url("img/forest1.jpg");
@@ -113,19 +124,7 @@ margin-top:344px;}
   background-image: "img/imgres copy.jpg"; 
     background-position: top center;
   }
-  #house1Body{
-   background-image:"img/imgres.jpg"; 
-  }
-  #house2Body{
-   background-image:"img/home.jpg"; 
-  }
-  #house3Body{
-   background-image:"img/url.jpg"; 
-  }
-  #house4Body{
-   background-image:"img/imgres.jpg"; 
-  }
-
+  
 
 
 
