@@ -68,16 +68,16 @@
   margin-left:1177px;
 }
 
-#house1Body{
+.house1Body{
    background-image:"img/home.jpg"; 
   }
-  #house2Body{
+  .house2Body{
    background-image:"img/house.jpg"; 
   }
-  #house3Body{
+  .house3Body{
    background-image:"img/home.jpg"; 
   }
-  #house4Body{
+  .house4Body{
    background-image:"img/house.jpg"; 
   }
 
